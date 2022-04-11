@@ -1,0 +1,15 @@
+{
+  "home": {
+    "listen": "Asculta muzica grozava!"
+  },
+  "manage": {
+    "my_songs": "Cantecele mele"
+  },
+  "register": {
+    "accept": "",
+    "tos": ""
+  },
+  "song": {
+    "comment_count": "{count} Comments"
+  }
+}
